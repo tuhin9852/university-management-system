@@ -1,0 +1,44 @@
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.exe.config
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.csprojResolveAssemblyReference.cache
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.Properties.Resources.resources
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.template.templateform.resources
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.csproj.GenerateResource.Cache
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.exe
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.pdb
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.loginform.resources
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.exe
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.pdb
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentinterface.resources
+c:\users\tuhin\documents\visual studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.teacherfirstform.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.passwordchangeui.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.addstudentui.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.View_Student.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentupdate.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.resultadd.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.resultupdate.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.All_Student.resources
+C:\Users\TUHIN\Documents\Visual Studio 2015\Projects\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentcourse.resources
+C:\Users\TUHIN\Desktop\New folder\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.exe.config
+C:\Users\TUHIN\Desktop\New folder\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.exe
+C:\Users\TUHIN\Desktop\New folder\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.pdb
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.exe.config
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.exe
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\bin\Debug\universitymanagementsystem.pdb
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.csprojAssemblyReference.cache
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.Properties.Resources.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.addstudentui.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.All_Student.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.loginform.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.passwordchangeui.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.resultadd.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.resultupdate.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentcourse.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentinterface.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.studentupdate.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.teacherfirstform.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.template.templateform.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.screen.View_Student.resources
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.csproj.GenerateResource.cache
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.csproj.CoreCompileInputs.cache
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.exe
+H:\BOOK\Coding\SD2\universitymanagementsystem\universitymanagementsystem\obj\Debug\universitymanagementsystem.pdb
